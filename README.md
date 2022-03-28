@@ -1,2 +1,2 @@
-# node.js-eslint-docker-env-mocha-tmplt
+# node.js-tmplt
 Template for node.js project
